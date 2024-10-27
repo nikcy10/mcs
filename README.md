@@ -16,6 +16,7 @@ Formula: Pt(d0) - Pr(d) = Pt(d0) - Pr(d0) + 10 .np. log10(d/d0)
 
 ## EXP 1C: 
 Given: n, TxPow/Pt, hTx, hRx, d, Pr. 
+
 FIND: 1. PL(d) 2. Fc
 
 Formula:
